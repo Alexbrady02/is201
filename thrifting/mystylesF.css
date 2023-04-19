@@ -109,5 +109,15 @@ div.navbar a {
     padding-right: 20px
   }
 
+  .lower-image-grid2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+    object-fit: contain;
+  }
+
 
 
